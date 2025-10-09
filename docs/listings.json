@@ -2,15 +2,9 @@
   {
     "listing": "/notes.html",
     "items": [
-      "/notes/second-post.html",
-      "/notes/first-post.html"
-    ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/blog_posts/second-post.html",
-      "/blog_posts/first-post.html"
+      "/notes/SSH-Guide-to-Client-Config.html",
+      "/notes/SSH-Guide-to-Server-Config.html",
+      "/notes/SSH-Guide-to-Keys.html"
     ]
   }
 ]

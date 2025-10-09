@@ -15,9 +15,7 @@ website:
       - text: projects
         menu:
           - href: projects/keydrop.md
-            text: Keydrop
-      - href: blog.md
-        text: blog
+            text: keydrop
     right:
       - text: about
         menu:
