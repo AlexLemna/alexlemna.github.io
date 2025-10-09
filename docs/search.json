@@ -1,16 +1,30 @@
 [
   {
+    "objectID": "posts/second-post.html",
+    "href": "posts/second-post.html",
+    "title": "Second Post",
+    "section": "",
+    "text": "Second Post\nAnother day, another test post."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "alexlemna.github.io",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome\nThis is the personal website of Alexander Lemna.\nUse this space for an introduction, links, or updates."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About Me\nI am a network engineer and technologist based in Chicago. This site documents my work, notes, and experiments."
+  },
+  {
+    "objectID": "posts/first-post.html",
+    "href": "posts/first-post.html",
+    "title": "First Post",
+    "section": "",
+    "text": "First Post\nHello, world. This is my first Quarto post."
   }
 ]

@@ -1,7 +1,9 @@
 ---
-title: "alexlemna.github.io"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is the personal website of **Alexander Lemna**.
+
+Use this space for an introduction, links, or updates.

@@ -2,4 +2,7 @@
 title: "About"
 ---
 
-About this site
+# About Me
+
+I am a network engineer and technologist based in Chicago.
+This site documents my work, notes, and experiments.
