@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Alexander Lloyd Lemna</title>
+<link>https://alexlemna.github.io/blog.html</link>
+<atom:link href="https://alexlemna.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Personal website and blog</description>
+<generator>quarto-1.7.33</generator>
+<lastBuildDate>Fri, 10 Oct 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Second Post</title>
+  <link>https://alexlemna.github.io/blog_posts/second-post.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="second-post" class="level1">
+<h1>Second Post</h1>
+<p>Another day, another test post.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://alexlemna.github.io/blog_posts/second-post.html</guid>
+  <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>First Post</title>
+  <link>https://alexlemna.github.io/blog_posts/first-post.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="first-post" class="level1">
+<h1>First Post</h1>
+<p>Hello, world. This is my first Quarto post.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://alexlemna.github.io/blog_posts/first-post.html</guid>
+  <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

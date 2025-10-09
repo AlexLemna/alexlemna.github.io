@@ -2,8 +2,6 @@
 title: "Home"
 ---
 
-# Welcome
-
 This is the personal website of **Alexander Lemna**.
 
 Use this space for an introduction, links, or updates.

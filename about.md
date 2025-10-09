@@ -1,8 +1,6 @@
 ---
-title: "About"
+title: "About Me"
 ---
-
-# About Me
 
 I am a network engineer and technologist based in Chicago.
 This site documents my work, notes, and experiments.

@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://alexlemna.github.io/posts/second-post.html</loc>
+    <loc>https://alexlemna.github.io/notes/second-post.html</loc>
+    <lastmod>2025-10-09T19:10:10.742Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexlemna.github.io/about.html</loc>
+    <lastmod>2025-10-09T18:43:02.543Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexlemna.github.io/projects/index.html</loc>
+    <lastmod>2025-10-09T18:51:06.081Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexlemna.github.io/this_site.html</loc>
+    <lastmod>2025-10-09T19:12:44.721Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexlemna.github.io/blog_posts/first-post.html</loc>
+    <lastmod>2025-10-09T17:17:27.660Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexlemna.github.io/notes.html</loc>
+    <lastmod>2025-10-09T19:09:51.863Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexlemna.github.io/blog.html</loc>
+    <lastmod>2025-10-09T18:44:46.584Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexlemna.github.io/blog_posts/second-post.html</loc>
     <lastmod>2025-10-09T17:17:46.196Z</lastmod>
   </url>
   <url>
     <loc>https://alexlemna.github.io/index.html</loc>
-    <lastmod>2025-10-09T17:16:00.076Z</lastmod>
+    <lastmod>2025-10-09T18:42:34.224Z</lastmod>
   </url>
   <url>
-    <loc>https://alexlemna.github.io/about.html</loc>
-    <lastmod>2025-10-09T17:15:32.293Z</lastmod>
+    <loc>https://alexlemna.github.io/projects/keydrop.html</loc>
+    <lastmod>2025-10-09T18:51:00.368Z</lastmod>
   </url>
   <url>
-    <loc>https://alexlemna.github.io/posts/first-post.html</loc>
-    <lastmod>2025-10-09T17:17:27.660Z</lastmod>
+    <loc>https://alexlemna.github.io/notes/first-post.html</loc>
+    <lastmod>2025-10-09T19:10:00.714Z</lastmod>
   </url>
 </urlset>

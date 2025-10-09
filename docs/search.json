@@ -1,7 +1,56 @@
 [
   {
-    "objectID": "posts/second-post.html",
-    "href": "posts/second-post.html",
+    "objectID": "notes/second-post.html",
+    "href": "notes/second-post.html",
+    "title": "Second Post",
+    "section": "",
+    "text": "Second Post\nAnother day, another test post."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a network engineer and technologist based in Chicago. This site documents my work, notes, and experiments."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Alexander Lloyd Lemna",
+    "section": "",
+    "text": "Foo bar."
+  },
+  {
+    "objectID": "this_site.html",
+    "href": "this_site.html",
+    "title": "About This Site",
+    "section": "",
+    "text": "Fooo bar."
+  },
+  {
+    "objectID": "blog_posts/first-post.html",
+    "href": "blog_posts/first-post.html",
+    "title": "First Post",
+    "section": "",
+    "text": "First Post\nHello, world. This is my first Quarto post."
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Foo bar.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSecond Post\n\n\n\n\n\n\n\n\nOct 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Post\n\n\n\n\n\n\n\n\nOct 9, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "All recent posts appear below.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSecond Post\n\n\n\n\n\n\n\n\nOct 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Post\n\n\n\n\n\n\n\n\nOct 9, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog_posts/second-post.html",
+    "href": "blog_posts/second-post.html",
     "title": "Second Post",
     "section": "",
     "text": "Second Post\nAnother day, another test post."
@@ -11,18 +60,18 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Welcome\nThis is the personal website of Alexander Lemna.\nUse this space for an introduction, links, or updates."
+    "text": "This is the personal website of Alexander Lemna.\nUse this space for an introduction, links, or updates."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects/keydrop.html",
+    "href": "projects/keydrop.html",
+    "title": "Alexander Lloyd Lemna",
     "section": "",
-    "text": "About Me\nI am a network engineer and technologist based in Chicago. This site documents my work, notes, and experiments."
+    "text": "Foo bar."
   },
   {
-    "objectID": "posts/first-post.html",
-    "href": "posts/first-post.html",
+    "objectID": "notes/first-post.html",
+    "href": "notes/first-post.html",
     "title": "First Post",
     "section": "",
     "text": "First Post\nHello, world. This is my first Quarto post."
