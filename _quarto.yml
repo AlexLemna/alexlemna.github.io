@@ -1,28 +1,69 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: ../docs
+  
+  # # Path rewrites for clean URLs
+  # render:
+  #   - "/source/*.md"
   
 website:
   title: "Alexander Lloyd Lemna"
   description: "Personal website and blog"
   site-url: "https://alexlemna.github.io"
+  repo-url: "https://github.com/AlexLemna/alexlemna.github.io"
+  repo-subdir: /docs
+
+  bread-crumbs: true
+
+  # Custom URL path mappings
+  sidebar:
+    - title: "Notes"
+      contents:
+        - section: "Explanations"
+          contents: "notes/11. explanations/*.md"
+          href: "notes/explanations/"
+        - section: "Tutorials"
+          contents: "notes/12. tutorials/*.md"
+          href: "notes/tutorials/"
+        - section: "How-to Guides"
+          contents: "notes/13. how-to guides/*.md"
+          href: "notes/how-to-guides/"
+        - section: "References"
+          contents: "notes/14. references & resources/*.md"
+          href: "notes/references/"
+
   navbar:
     left:
-      - href: index.md
-        text: home
-      - href: notes.md
-        text: notes
+      - text: home
+        href: index.md
+      - text: notes
+        menu:
+          - text: notes index
+            href: notes/index.md
+          - text: explanations
+            href: notes/11. explanations/index.md
+          - text: tutorials
+            href: notes/12. tutorials/index.md
+          - text: how-to guides
+            href: notes/13. how-to guides/index.md
+          - text: references & resources
+            href: notes/14. references & resources/index.md
       - text: projects
         menu:
-          - href: projects/keydrop.md
-            text: keydrop
+          - text: keydrop
+            href: projects/keydrop.md
     right:
       - text: about
         menu:
-          - href: about.md
-            text: me
-          - href: this_site.md
-            text: this site
+          - text: about me
+            href: about.md
+          - text: about this site
+            href: this_site.md
+      - text: reuse
+        href: reuse.md
+      - icon: rss
+        href: feed.xml
+
   page-footer:
     left: "© 2025 Alexander Lloyd Lemna"
     # right: "Built with [Quarto](https://quarto.org)"

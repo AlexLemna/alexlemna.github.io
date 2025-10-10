@@ -4,6 +4,9 @@ description: "RSA, ECDSA, and Ed25519, oh my!"
 author: "Alexander Lloyd Lemna"
 date: 2024-12-03
 drafts: false
+categories:
+    - ssh
+license: CC BY
 ---
 
 

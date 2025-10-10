@@ -1,6 +1,9 @@
 ---
 title: "Notes on SSH"
 date: 2024-12-10
+categories:
+    - ssh
+license: CC BY
 ---
 
 In or around 1995, a Fin named Tatu Ylönen was at the 
