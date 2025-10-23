@@ -20,16 +20,18 @@ website:
     - title: "Notes"
       contents:
         - section: "Explanations"
-          contents: "notes/11. explanations/*.md"
+          contents: # "notes/explanations/*.md"
+            - href: notes/explanations/SSH-Overview.md
+            - href: notes/explanations/SSH-Guide-to-Keys.md
           href: "notes/explanations/"
         - section: "Tutorials"
-          contents: "notes/12. tutorials/*.md"
+          contents: "notes/tutorials/*.md"
           href: "notes/tutorials/"
         - section: "How-to Guides"
-          contents: "notes/13. how-to guides/*.md"
+          contents: "notes/how-to/*.md"
           href: "notes/how-to-guides/"
         - section: "References"
-          contents: "notes/14. references & resources/*.md"
+          contents: "notes/references/*.md"
           href: "notes/references/"
 
   navbar:
@@ -41,13 +43,13 @@ website:
           - text: notes index
             href: notes/index.md
           - text: explanations
-            href: notes/11. explanations/index.md
+            href: notes/explanations/index.md
           - text: tutorials
-            href: notes/12. tutorials/index.md
+            href: notes/tutorials/index.md
           - text: how-to guides
-            href: notes/13. how-to guides/index.md
+            href: notes/how-to/index.md
           - text: references & resources
-            href: notes/14. references & resources/index.md
+            href: notes/references/index.md
       - text: projects
         menu:
           - text: keydrop
