@@ -2,10 +2,14 @@
   {
     "listing": "/notes/index.html",
     "items": [
+      "/notes/DHCPD-Redundancy.html",
+      "/notes/Homelab-Hardware.html",
+      "/notes/Homelab-Subnets.html",
       "/notes/SSH-Guide-to-Client-Config.html",
-      "/notes/SSH-Guide-to-Server-Config.html",
-      "/notes/SSH-Overview.html",
-      "/notes/SSH-Guide-to-Keys.html"
+      "/notes/SSH-My-Preferred-Client-Config.html",
+      "/notes/SSH-My-Preferred-Server-Config.html",
+      "/notes/Simple-HTTPD-Setup.html",
+      "/notes/SSH-Guide-to-Server-Config.html"
     ]
   }
 ]

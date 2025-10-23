@@ -13,12 +13,20 @@
     <lastmod>2025-10-12T00:02:32.981Z</lastmod>
   </url>
   <url>
-    <loc>https://alexanderlemna.com/notes/SSH-Guide-to-Server-Config.html</loc>
-    <lastmod>2025-10-12T02:19:00.786Z</lastmod>
+    <loc>https://alexanderlemna.com/notes/SSH-My-Preferred-Client-Config.html</loc>
+    <lastmod>2025-10-23T19:39:01.610Z</lastmod>
   </url>
   <url>
     <loc>https://alexanderlemna.com/notes/SSH-Guide-to-Client-Config.html</loc>
-    <lastmod>2025-10-12T02:19:44.737Z</lastmod>
+    <lastmod>2025-10-23T19:38:57.383Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexanderlemna.com/notes/index.html</loc>
+    <lastmod>2025-10-23T18:43:39.441Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexanderlemna.com/notes/Homelab-Hardware.html</loc>
+    <lastmod>2025-10-23T19:29:51.540Z</lastmod>
   </url>
   <url>
     <loc>https://alexanderlemna.com/index.html</loc>
@@ -29,16 +37,24 @@
     <lastmod>2025-10-12T00:02:32.974Z</lastmod>
   </url>
   <url>
-    <loc>https://alexanderlemna.com/notes/index.html</loc>
-    <lastmod>2025-10-23T18:43:39.441Z</lastmod>
+    <loc>https://alexanderlemna.com/notes/DHCPD-Redundancy.html</loc>
+    <lastmod>2025-10-23T19:41:41.157Z</lastmod>
   </url>
   <url>
-    <loc>https://alexanderlemna.com/notes/SSH-Guide-to-Keys.html</loc>
-    <lastmod>2025-10-12T02:33:55.221Z</lastmod>
+    <loc>https://alexanderlemna.com/notes/Homelab-Subnets.html</loc>
+    <lastmod>2025-10-23T19:30:29.683Z</lastmod>
   </url>
   <url>
-    <loc>https://alexanderlemna.com/notes/SSH-Overview.html</loc>
-    <lastmod>2025-10-12T00:02:32.974Z</lastmod>
+    <loc>https://alexanderlemna.com/notes/Simple-HTTPD-Setup.html</loc>
+    <lastmod>2025-10-23T19:41:53.104Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexanderlemna.com/notes/SSH-Guide-to-Server-Config.html</loc>
+    <lastmod>2025-10-23T19:38:49.936Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexanderlemna.com/notes/SSH-My-Preferred-Server-Config.html</loc>
+    <lastmod>2025-10-23T19:39:07.226Z</lastmod>
   </url>
   <url>
     <loc>https://alexanderlemna.com/projects/keydrop.html</loc>
