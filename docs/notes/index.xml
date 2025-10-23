@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>Alexander Lloyd Lemna</title>
-<link>https://alexlemna.github.io/notes/</link>
-<atom:link href="https://alexlemna.github.io/notes/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://alexanderlemna.com/notes/</link>
+<atom:link href="https://alexanderlemna.com/notes/index.xml" rel="self" type="application/rss+xml"/>
 <description>Personal website and blog</description>
 <generator>quarto-1.8.25</generator>
 <lastBuildDate>Fri, 13 Dec 2024 06:00:00 GMT</lastBuildDate>
 <item>
   <title>A Guide to Configuring Your SSH Server</title>
-  <link>https://alexlemna.github.io/notes/how-to/SSH-Guide-to-Client-Config.html</link>
+  <link>https://alexanderlemna.com/notes/SSH-Guide-to-Client-Config.html</link>
   <description><![CDATA[ 
 
 
@@ -27,12 +27,31 @@
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div> ]]></description>
   <category>ssh</category>
   <category>diataxis | how-to guides</category>
-  <guid>https://alexlemna.github.io/notes/how-to/SSH-Guide-to-Client-Config.html</guid>
+  <guid>https://alexanderlemna.com/notes/SSH-Guide-to-Client-Config.html</guid>
   <pubDate>Fri, 13 Dec 2024 06:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>A Guide to Configuring Your SSH Server</title>
+  <link>https://alexanderlemna.com/notes/SSH-Guide-to-Server-Config.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Another day, another test post.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div> ]]></description>
+  <category>ssh</category>
+  <category>diataxis | how-to guides</category>
+  <guid>https://alexanderlemna.com/notes/SSH-Guide-to-Server-Config.html</guid>
+  <pubDate>Tue, 10 Dec 2024 06:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Notes on SSH</title>
-  <link>https://alexlemna.github.io/notes/explanations/SSH-Overview.html</link>
+  <link>https://alexanderlemna.com/notes/SSH-Overview.html</link>
   <description><![CDATA[ 
 
 
@@ -45,31 +64,12 @@
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div> ]]></description>
   <category>ssh</category>
-  <guid>https://alexlemna.github.io/notes/explanations/SSH-Overview.html</guid>
-  <pubDate>Tue, 10 Dec 2024 06:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>A Guide to Configuring Your SSH Server</title>
-  <link>https://alexlemna.github.io/notes/how-to/SSH-Guide-to-Server-Config.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Another day, another test post.</p>
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div> ]]></description>
-  <category>ssh</category>
-  <category>diataxis | how-to guides</category>
-  <guid>https://alexlemna.github.io/notes/how-to/SSH-Guide-to-Server-Config.html</guid>
+  <guid>https://alexanderlemna.com/notes/SSH-Overview.html</guid>
   <pubDate>Tue, 10 Dec 2024 06:00:00 GMT</pubDate>
 </item>
 <item>
   <title>A Guide to SSH Keys</title>
-  <link>https://alexlemna.github.io/notes/explanations/SSH-Guide-to-Keys.html</link>
+  <link>https://alexanderlemna.com/notes/SSH-Guide-to-Keys.html</link>
   <description><![CDATA[ 
 
 
@@ -106,42 +106,8 @@
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div> ]]></description>
   <category>ssh</category>
   <category>diataxis | explanations</category>
-  <guid>https://alexlemna.github.io/notes/explanations/SSH-Guide-to-Keys.html</guid>
+  <guid>https://alexanderlemna.com/notes/SSH-Guide-to-Keys.html</guid>
   <pubDate>Tue, 03 Dec 2024 06:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>notes: explanations</title>
-  <link>https://alexlemna.github.io/notes/explanations/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Foo bar.</p>
-
-
-
- ]]></description>
-  <guid>https://alexlemna.github.io/notes/explanations/</guid>
-  <pubDate>Sun, 12 Oct 2025 02:33:59 GMT</pubDate>
-</item>
-<item>
-  <title>notes: tutorials</title>
-  <link>https://alexlemna.github.io/notes/tutorials/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Foo bar.</p>
-
-
-
- ]]></description>
-  <guid>https://alexlemna.github.io/notes/tutorials/</guid>
-  <pubDate>Sun, 12 Oct 2025 02:33:59 GMT</pubDate>
 </item>
 </channel>
 </rss>

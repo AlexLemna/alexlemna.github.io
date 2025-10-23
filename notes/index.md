@@ -2,10 +2,7 @@
 title: "Notes"
 listing:
   contents:
-    - "explanations/*.md"
-    - "tutorials/*.md"
-    - "how-to/*.md"
-    - "references/*.md"
+    - "*.md"
   sort: "date desc"
   type: default
   categories: true

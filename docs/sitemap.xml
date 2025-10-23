@@ -1,67 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://alexlemna.github.io/this_site.html</loc>
+    <loc>https://alexanderlemna.com/this_site.html</loc>
     <lastmod>2025-10-12T00:02:32.986Z</lastmod>
   </url>
   <url>
-    <loc>https://alexlemna.github.io/reuse.html</loc>
+    <loc>https://alexanderlemna.com/reuse.html</loc>
     <lastmod>2025-10-12T00:02:32.983Z</lastmod>
   </url>
   <url>
-    <loc>https://alexlemna.github.io/projects/index.html</loc>
+    <loc>https://alexanderlemna.com/projects/index.html</loc>
     <lastmod>2025-10-12T00:02:32.981Z</lastmod>
   </url>
   <url>
-    <loc>https://alexlemna.github.io/notes/references/index.html</loc>
-    <lastmod>2025-10-12T00:02:32.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexlemna.github.io/notes/how-to/SSH-Guide-to-Server-Config.html</loc>
+    <loc>https://alexanderlemna.com/notes/SSH-Guide-to-Server-Config.html</loc>
     <lastmod>2025-10-12T02:19:00.786Z</lastmod>
   </url>
   <url>
-    <loc>https://alexlemna.github.io/notes/how-to/index.html</loc>
-    <lastmod>2025-10-12T00:02:32.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexlemna.github.io/notes/explanations/SSH-Guide-to-Keys.html</loc>
-    <lastmod>2025-10-12T02:33:55.221Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexlemna.github.io/index.html</loc>
-    <lastmod>2025-10-12T00:02:32.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexlemna.github.io/about.html</loc>
-    <lastmod>2025-10-12T00:02:32.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexlemna.github.io/notes/explanations/index.html</loc>
-    <lastmod>2025-10-12T02:23:11.055Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexlemna.github.io/notes/explanations/SSH-Overview.html</loc>
-    <lastmod>2025-10-12T00:02:32.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexlemna.github.io/notes/how-to/SSH-Guide-to-Client-Config.html</loc>
+    <loc>https://alexanderlemna.com/notes/SSH-Guide-to-Client-Config.html</loc>
     <lastmod>2025-10-12T02:19:44.737Z</lastmod>
   </url>
   <url>
-    <loc>https://alexlemna.github.io/notes/index.html</loc>
-    <lastmod>2025-10-12T02:33:25.369Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexlemna.github.io/notes/tutorials/index.html</loc>
+    <loc>https://alexanderlemna.com/index.html</loc>
     <lastmod>2025-10-12T00:02:32.974Z</lastmod>
   </url>
   <url>
-    <loc>https://alexlemna.github.io/projects/keydrop.html</loc>
+    <loc>https://alexanderlemna.com/about.html</loc>
+    <lastmod>2025-10-12T00:02:32.974Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexanderlemna.com/notes/index.html</loc>
+    <lastmod>2025-10-23T18:43:39.441Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexanderlemna.com/notes/SSH-Guide-to-Keys.html</loc>
+    <lastmod>2025-10-12T02:33:55.221Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexanderlemna.com/notes/SSH-Overview.html</loc>
+    <lastmod>2025-10-12T00:02:32.974Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexanderlemna.com/projects/keydrop.html</loc>
     <lastmod>2025-10-12T00:02:32.981Z</lastmod>
   </url>
   <url>
-    <loc>https://alexlemna.github.io/rollcall.html</loc>
-    <lastmod>2025-10-12T00:02:32.983Z</lastmod>
+    <loc>https://alexanderlemna.com/rollcall.html</loc>
+    <lastmod>2025-10-23T18:42:08.383Z</lastmod>
   </url>
 </urlset>

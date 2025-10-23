@@ -2,14 +2,10 @@
   {
     "listing": "/notes/index.html",
     "items": [
-      "/notes/explanations/index.html",
-      "/notes/tutorials/index.html",
-      "/notes/how-to/index.html",
-      "/notes/references/index.html",
-      "/notes/how-to/SSH-Guide-to-Client-Config.html",
-      "/notes/explanations/SSH-Overview.html",
-      "/notes/how-to/SSH-Guide-to-Server-Config.html",
-      "/notes/explanations/SSH-Guide-to-Keys.html"
+      "/notes/SSH-Guide-to-Client-Config.html",
+      "/notes/SSH-Guide-to-Server-Config.html",
+      "/notes/SSH-Overview.html",
+      "/notes/SSH-Guide-to-Keys.html"
     ]
   }
 ]

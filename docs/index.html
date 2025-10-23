@@ -262,44 +262,29 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./index.html" aria-current="page"> 
 <span class="menu-text">home</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-notes" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">notes</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-notes">    
-        <li>
-    <a class="dropdown-item" href="./notes/index.html">
- <span class="dropdown-text">notes index</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./notes/index.html"> 
+<span class="menu-text">notes</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./notes/explanations/index.html">
- <span class="dropdown-text">explanations</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./notes/tutorials/index.html">
- <span class="dropdown-text">tutorials</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./notes/how-to/index.html">
- <span class="dropdown-text">how-to guides</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./notes/references/index.html">
- <span class="dropdown-text">references &amp; resources</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">projects</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
         <li>
+    <a class="dropdown-item" href="./projects/index.html">
+ <span class="dropdown-text">index</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="./projects/keydrop.html">
  <span class="dropdown-text">keydrop</span></a>
   </li>  
     </ul>
   </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./rollcall.html"> 
+<span class="menu-text">resources</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
@@ -456,7 +441,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/alexlemna\.github\.io");
+        var filterRegex = new RegExp("https:\/\/alexanderlemna\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

@@ -9,51 +9,45 @@ project:
 website:
   title: "Alexander Lloyd Lemna"
   description: "Personal website and blog"
-  site-url: "https://alexlemna.github.io"
+  site-url: "https://alexanderlemna.com"
   repo-url: "https://github.com/AlexLemna/alexlemna.github.io"
   repo-subdir: /docs
 
   bread-crumbs: true
 
-  # Custom URL path mappings
-  sidebar:
-    - title: "Notes"
-      contents:
-        - section: "Explanations"
-          contents: # "notes/explanations/*.md"
-            - href: notes/explanations/SSH-Overview.md
-            - href: notes/explanations/SSH-Guide-to-Keys.md
-          href: "notes/explanations/"
-        - section: "Tutorials"
-          contents: "notes/tutorials/*.md"
-          href: "notes/tutorials/"
-        - section: "How-to Guides"
-          contents: "notes/how-to/*.md"
-          href: "notes/how-to-guides/"
-        - section: "References"
-          contents: "notes/references/*.md"
-          href: "notes/references/"
+  # # Custom URL path mappings
+  # sidebar:
+  #   - title: "Notes"
+  #     contents:
+  #       - section: "Explanations"
+  #         contents: # "notes/explanations/*.md"
+  #           - href: notes/explanations/SSH-Overview.md
+  #           - href: notes/explanations/SSH-Guide-to-Keys.md
+  #         href: "notes/explanations/"
+  #       - section: "Tutorials"
+  #         contents: "notes/tutorials/*.md"
+  #         href: "notes/tutorials/"
+  #       - section: "How-to Guides"
+  #         contents: "notes/how-to/*.md"
+  #         href: "notes/how-to-guides/"
+  #       - section: "References"
+  #         contents: "notes/references/*.md"
+  #         href: "notes/references/"
 
   navbar:
     left:
       - text: home
         href: index.md
       - text: notes
-        menu:
-          - text: notes index
-            href: notes/index.md
-          - text: explanations
-            href: notes/explanations/index.md
-          - text: tutorials
-            href: notes/tutorials/index.md
-          - text: how-to guides
-            href: notes/how-to/index.md
-          - text: references & resources
-            href: notes/references/index.md
+        href: notes/index.md
       - text: projects
         menu:
+          - text: index
+            href: projects/index.md
           - text: keydrop
             href: projects/keydrop.md
+      - text: resources
+        href: rollcall.md
     right:
       - text: about
         menu:
